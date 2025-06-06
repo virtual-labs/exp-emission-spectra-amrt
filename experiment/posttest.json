@@ -2,37 +2,54 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Infra red spectrum lies between",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Radio and microwave region",
+        "b": "Visible and ultra violet region",
+        "c": "Microwave and visible region",
+        "d": "Ultra violet and X-rays"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect: Infrared lies after microwaves, before visible.",
+        "b": "Incorrect: Infrared lies before visible light, not after.",
+        "c": "Correct: Infrared spectrum lies between microwave and visible regions.",
+        "d": "Incorrect: Those are higher energy regions."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Hydrogen spectra is",
+      "answers": {
+        "a": "Emission spectra",
+        "b": "Absorption spectra",
+        "c": "Arc spectra",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Correct: Hydrogen emits light at specific wavelengths when excited.",
+        "b": "Incorrect: Hydrogen can show absorption too, but commonly referred as emission spectrum.",
+        "c": "Incorrect: Arc spectra refer to spectra from electric arcs.",
+        "d": "Incorrect: Hydrogen spectra are well-defined emission lines."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Visible region in hydrogen spectrum is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Lyman series",
+        "b": "Balmer series",
+        "c": "Paschen series",
+        "d": "Brackett series"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect: Lyman series is in ultraviolet region.",
+        "b": "Correct: Balmer series lies in the visible spectrum.",
+        "c": "Incorrect: Paschen series lies in the infrared region.",
+        "d": "Incorrect: Brackett series is also in infrared region."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

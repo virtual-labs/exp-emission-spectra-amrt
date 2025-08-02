@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The existence of electromagnetic waves was first experimentally demonstrated by",
+      "answers": {
+        "a": "Maxwell",
+        "b": "Faraday",
+        "c": "Hertz",
+        "d": "Tesla"
+      },
+      "explanations": {
+        "a": "Incorrect: Maxwell predicted electromagnetic waves theoretically.",
+        "b": "Incorrect: Faraday contributed to the theory but did not demonstrate EM waves.",
+        "c": "Correct: Heinrich Hertz experimentally demonstrated EM waves in 1887.",
+        "d": "Incorrect: Tesla worked on electromagnetism but not EM wave demonstration."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The electromagnetic waves travel with velocity",
+      "answers": {
+        "a": "Equal to that of light",
+        "b": "Equal to velocity of sound",
+        "c": "Less than the velocity of light",
+        "d": "Greater than the velocity of light"
+      },
+      "explanations": {
+        "a": "Correct: EM waves travel at the speed of light in a vacuum (≈ 3 x 10^8 m/s).",
+        "b": "Incorrect: Speed of sound is much slower than EM waves.",
+        "c": "Incorrect: In vacuum, EM wave speed equals light speed.",
+        "d": "Incorrect: Nothing travels faster than the speed of light in vacuum."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Infra red spectrum lies between",
+      "answers": {
+        "a": "Radio and microwave region",
+        "b": "Visible and ultra violet region",
+        "c": "Microwave and visible region",
+        "d": "Ultra violet and X-rays"
+      },
+      "explanations": {
+        "a": "Incorrect: Infrared lies after microwaves, before visible.",
+        "b": "Incorrect: Infrared lies before visible light, not after.",
+        "c": "Correct: Infrared spectrum lies between microwave and visible regions.",
+        "d": "Incorrect: Those are higher energy regions."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Hydrogen spectra is",
+      "answers": {
+        "a": "Emission spectra",
+        "b": "Absorption spectra",
+        "c": "Arc spectra",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Correct: Hydrogen emits light at specific wavelengths when excited.",
+        "b": "Incorrect: Hydrogen can show absorption too, but commonly referred as emission spectrum.",
+        "c": "Incorrect: Arc spectra refer to spectra from electric arcs.",
+        "d": "Incorrect: Hydrogen spectra are well-defined emission lines."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Visible region in hydrogen spectrum is",
+      "answers": {
+        "a": "Lyman series",
+        "b": "Balmer series",
+        "c": "Paschen series",
+        "d": "Brackett series"
+      },
+      "explanations": {
+        "a": "Incorrect: Lyman series is in ultraviolet region.",
+        "b": "Correct: Balmer series lies in the visible spectrum.",
+        "c": "Incorrect: Paschen series lies in the infrared region.",
+        "d": "Incorrect: Brackett series is also in infrared region."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
